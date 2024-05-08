@@ -160,12 +160,12 @@ Learning any new skill is a journey full of speed bumps and obstacles to be over
 <div class="lesson-content__panel" markdown="1">
 
 1. To give your motivation a bit of a boost, read about the success of others in the [TOP Discord server's Success Stories forum](https://discord.com/channels/505093832157691914/1089990025162260570).
-1. To learn more about the growth mindset, go through the following resources:
+2. To learn more about the growth mindset, go through the following resources:
    - [Believe you can get better](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
    - [Grit](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
    - [You can learn anything](https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart)
-
-1. To learn more about the best ways to learn, watch this summary of [Coursera's learning how to learn course](https://www.youtube.com/watch?v=O96fE1E-rf8). The full course is linked in the additional resources.
+3. To learn more about the best ways to learn, watch this summary of [Coursera's learning how to learn course](https://www.youtube.com/watch?v=O96fE1E-rf8). The full course is linked in the additional resources.
+4. [Learning to code when it gets dark](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)
 
 </div>
 
@@ -175,7 +175,6 @@ This section contains helpful links to related content. It isn't required, so co
 
 - [Becoming a TOP Success Story](https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2)
 - [Managing inspiration and motivation](https://markmanson.net/do-something)
-- [Learning to code when it gets dark](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)
 - While thinking and research time is a bigger bottleneck than raw typing speed, if you'd like to improve your typing skills then some excellent options include [typing.com](https://www.typing.com/), [TypingClub.com](https://www.typingclub.com) and [Monkeytype](https://monkeytype.com/).
 - [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) Learn about the Instant Gratification Monkey, Rational Decision Maker, Panic Monster, and how to navigate the Dark Playground. [Short video introduction from the same author](https://youtu.be/arj7oStGLkU)
 - [100 Days of Code](https://www.100daysofcode.com/) is a challenge that new developers often use to track their coding journey and showcase their work. Consider checking out their website if you are looking for a way to stay motivated and inspire other developers.
